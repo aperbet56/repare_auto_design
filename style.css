@@ -148,3 +148,30 @@ footer h2,
 footer p {
     margin-bottom: 8px;
 }
+
+/**** Responsive design version mobile ****/
+
+@media screen and (max-width: 767px) {
+    nav .highlight {
+        display: none;
+    }
+
+    .content {
+        font-size: 1.3rem;
+        margin: 2rem auto 0;
+    }
+
+    .highlight {
+        padding: 0.8rem;
+    }
+
+    footer ul {
+        flex-direction: column;
+        justify-content: center;
+    }
+
+    footer li {
+        margin: 1rem;
+        text-align: center;
+    }
+}
