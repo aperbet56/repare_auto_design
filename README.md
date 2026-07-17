@@ -1,5 +1,7 @@
 ## REAPARE AUTO DESIGN 🚗
 
+![Design preview for the project](./img/preview.png)
+
 ## Le challenge
 
 Création du projet : Répare Auto design en HTML5 et CSS3.
@@ -18,4 +20,6 @@ Lien vers le projet : https://aperbet56.github.io/repare_auto_design/
 - Page web responsive
 - Importation des polices "Big Shoulders" et "Lexend Deca"
 - Importation de la bibliothèque Font-Awesome
-- Importation du normaliseur : le fichier normalize.css
+- Utilisation d'un normaliseur : le fichier normalize.css
+- Commentaires HTML
+- Commentaires CSS
